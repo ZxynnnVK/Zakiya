@@ -13,7 +13,7 @@ teksHai = "Hai, ada surat buat Zakiya nih";
     
 konten = [
   {
-    gambar: "NamaFileGambar/Foto",
+    gambar: "Screenshot_20250827-142520.jpg",
     ucapan: "I love you Zakiyaa",
   },
 ];
@@ -24,3 +24,4 @@ nomorWhatsapp = "6285787735570";
 /*=========================*/
 DekaTutorial(konten, musik, nomorWhatsapp);
 </script></body></html>
+
